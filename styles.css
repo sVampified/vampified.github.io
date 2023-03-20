@@ -552,3 +552,9 @@ input {
 .programmingtext {
     color: rgb(124, 21, 234);
 }
+
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
